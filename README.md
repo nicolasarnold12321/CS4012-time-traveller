@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-![Screenshot]("https://github.com/nicolasarnold12321/CS4012-time-traveller/blob/master/screenshot.png")
+![Screenshot](https://github.com/nicolasarnold12321/CS4012-time-traveller/blob/master/screenshot.png)
 
 * The file column is the statements that have been executed, and the statement that is next to be executed.
 
