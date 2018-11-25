@@ -12,7 +12,7 @@
 
 ## Screenshot
 
-![Screenshot]("./screenshot.png")
+![Screenshot]("screenshot.png")
 
 * The file column is the statements that have been executed, and the statement that is next to be executed.
 
